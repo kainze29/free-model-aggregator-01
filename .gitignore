@@ -1,0 +1,5 @@
+# Kit dir (unpacked competition kit) and local build notes are never committed.
+free-model-aggregator-01-kit/
+BUILD-LOG.md
+grade-*/
+node_modules/
